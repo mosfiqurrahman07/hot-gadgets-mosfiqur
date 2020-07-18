@@ -1,0 +1,17 @@
+.logo-image{
+    width: 150px;
+}
+.buy-now-button{
+    border: none;
+    padding: 10px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
