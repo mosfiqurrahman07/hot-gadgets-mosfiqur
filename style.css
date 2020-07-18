@@ -15,3 +15,13 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+.cat{
+    padding: 30px 45px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.cat1{
+    border-radius: 5px 5px 5px 25px;
+}
+.cat2, .cat3{
+    border-radius: 5px 5px 25px 5px;
+}
